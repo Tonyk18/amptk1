@@ -1,0 +1,12 @@
+{
+  "resourceName": "tkamp1",
+  "policyUUID": "36a5c230",
+  "bucketName": "tkamp1bucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

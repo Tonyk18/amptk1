@@ -42,5 +42,12 @@
         }
       }
     }
+  },
+  "storage": {
+    "tkamp1": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": []
+    }
   }
 }
